@@ -1,1 +1,2 @@
 Replacing content from branch 2 with new text.
+Some filler text added for branch 2.
